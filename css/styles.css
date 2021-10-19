@@ -3,3 +3,21 @@
   width: 25%;
   border: 1px solid black;
 }
+
+.cards {
+  width: 70%;
+}
+
+.card {
+  display: none;
+}
+
+.sidebar li {
+  cursor: pointer;
+  color: #0088cc;
+  font-style: italic;
+}
+
+.sidebar li:hover {
+  text-decoration: underline;
+}
